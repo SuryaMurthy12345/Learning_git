@@ -7,4 +7,4 @@ git switch -c branchname / git checkout -bbranchname
 
 to know branches - git branch
 
-//when we shift branches those comtent also sows (up to commit i  those branches)
+//when we shift branches those comtent also sows (up to commit i n  those branches)
