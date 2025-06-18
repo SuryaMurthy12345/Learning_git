@@ -1,2 +1,8 @@
 username = spogebob
 password = 123
+
+to create branch - 
+
+git switch -b branchname / git checkout -bbranchname
+
+to know branches - git branch

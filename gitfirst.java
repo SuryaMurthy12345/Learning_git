@@ -19,6 +19,8 @@ public class gitfirst{
 
         System.out.println("hello");
 
-        //git diff (shows differences) between working deirectry and staging area (what we changed)
+        //git diff (shows differences) between working deirectry and staging area (what we changed)!
+
+        //git rm --cached filename
     }
 }
