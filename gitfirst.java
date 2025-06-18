@@ -3,5 +3,12 @@ public class gitfirst{
         // version control means , power of going back to any previous verion
 
         //git is a distrubuted version control system, we can have local copy and remote copy
+
+        //git status
+        //git init
+        //git add
+        //git commit
+
+        //git log
     }
 }
