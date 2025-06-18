@@ -18,5 +18,7 @@ public class gitfirst{
         //skipping staging -> git commit -a -m "message" !!!!!!!!!
 
         System.out.println("hello");
+
+        //git diff (shows differences) between working deirectry and staging area (what we changed)
     }
 }
