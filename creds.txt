@@ -3,7 +3,7 @@ password = 123
 
 to create branch - 
 
-git switch -b branchname / git checkout -bbranchname
+git switch -c branchname / git checkout -bbranchname
 
 to know branches - git branch
 
