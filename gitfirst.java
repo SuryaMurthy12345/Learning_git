@@ -13,6 +13,10 @@ public class gitfirst{
 
         //blah bh
 
-        //owooo
+        //owooo!!
+
+        //skipping staging -> git commit -a -m "message" !!!!!!!!!
+
+        System.out.println("hello");
     }
 }
